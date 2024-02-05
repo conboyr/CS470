@@ -1,0 +1,693 @@
+{
+   "academic_program" : "CS-BS",
+   "courses" : {
+      "CS 115" : {
+         "catalog" : "115",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "CS"
+      },
+      "CS 210" : {
+         "catalog" : "210",
+         "course_co_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 215" : {
+                        "catalog" : "215",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 115" : {
+                        "catalog" : "115",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "CS"
+      },
+      "CS 215" : {
+         "catalog" : "215",
+         "course_co_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 210" : {
+                        "catalog" : "210",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 115" : {
+                        "catalog" : "115",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "CS"
+      },
+      "CS 242" : {
+         "catalog" : "242",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 115" : {
+                        "catalog" : "115",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            },
+            {
+               "courses" : [
+                  {
+                     "MATH 161" : {
+                        "catalog" : "161",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161X" : {
+                        "catalog" : "161X",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "CS"
+      },
+      "CS 252" : {
+         "catalog" : "252",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 215" : {
+                        "catalog" : "215",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     },
+                     "CS 242" : {
+                        "catalog" : "242",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 2
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "CS"
+      },
+      "CS 315" : {
+         "catalog" : "315",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 210" : {
+                        "catalog" : "210",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     },
+                     "CS 215" : {
+                        "catalog" : "215",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 2
+            },
+            {
+               "courses" : [
+                  {
+                     "CS 242" : {
+                        "catalog" : "242",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     },
+                     "MATH 142" : {
+                        "catalog" : "142",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "CS"
+      },
+      "CS 330" : {
+         "catalog" : "330",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 315" : {
+                        "catalog" : "315",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "CS"
+      },
+      "CS 340" : {
+         "catalog" : "340",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 215" : {
+                        "catalog" : "215",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     },
+                     "CS 252" : {
+                        "catalog" : "252",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 2
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "CS"
+      },
+      "CS 349" : {
+         "catalog" : "349",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 315" : {
+                        "catalog" : "315",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "CS"
+      },
+      "CS 351" : {
+         "catalog" : "351",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 215" : {
+                        "catalog" : "215",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  },
+                  {
+                     "CS 252" : {
+                        "catalog" : "252",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 2
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "CS"
+      },
+      "CS 355" : {
+         "catalog" : "355",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 215" : {
+                        "catalog" : "215",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "CS"
+      },
+      "CS 360" : {
+         "catalog" : "360",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 315" : {
+                        "catalog" : "315",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "CS"
+      },
+      "CS 365" : {
+         "catalog" : "365",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 210" : {
+                        "catalog" : "210",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     },
+                     "CS 215" : {
+                        "catalog" : "215",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     },
+                     "CS 252" : {
+                        "catalog" : "252",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 3
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "CS"
+      },
+      "CS 370" : {
+         "catalog" : "370",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 215" : {
+                        "catalog" : "215",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "CS"
+      },
+      "CS 375" : {
+         "catalog" : "375",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 215" : {
+                        "catalog" : "215",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     },
+                     "MATH 161" : {
+                        "catalog" : "161",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 2
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "CS"
+      },
+      "CS 385" : {
+         "catalog" : "385",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 370" : {
+                        "catalog" : "370",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "CS"
+      },
+      "CS 386" : {
+         "catalog" : "386",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 315" : {
+                        "catalog" : "315",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     },
+                     "CS 355" : {
+                        "catalog" : "355",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 2
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "CS"
+      },
+      "CS 391" : {
+         "catalog" : "391",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 215" : {
+                        "catalog" : "215",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "CS"
+      },
+      "CS 415" : {
+         "catalog" : "415",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 315" : {
+                        "catalog" : "315",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "CS"
+      },
+      "CS 425" : {
+         "catalog" : "425",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 315" : {
+                        "catalog" : "315",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "CS"
+      },
+      "CS 450" : {
+         "catalog" : "450",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 252" : {
+                        "catalog" : "252",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     },
+                     "CS 315" : {
+                        "catalog" : "315",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 2
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "CS"
+      },
+      "CS 454" : {
+         "catalog" : "454",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 315" : {
+                        "catalog" : "315",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "CS"
+      },
+      "CS 460" : {
+         "catalog" : "460",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 252" : {
+                        "catalog" : "252",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     },
+                     "CS 315" : {
+                        "catalog" : "315",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 2
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "CS"
+      },
+      "CS 470" : {
+         "catalog" : "470",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 315" : {
+                        "catalog" : "315",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     },
+                     "CS 370" : {
+                        "catalog" : "370",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 2
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "CS"
+      },
+      "CS 479" : {
+         "catalog" : "479",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 315" : {
+                        "catalog" : "315",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "CS"
+      },
+      "CS 480" : {
+         "catalog" : "480",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 315" : {
+                        "catalog" : "315",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "CS"
+      },
+      "MATH 142" : {
+         "catalog" : "142",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 161" : {
+                        "catalog" : "161",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161X" : {
+                        "catalog" : "161X",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            },
+            {
+               "courses" : [
+                  {
+                     "MATH 161A" : {
+                        "catalog" : "161A",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161B" : {
+                        "catalog" : "161B",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 2
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 161" : {
+         "catalog" : "161",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 161X" : {
+         "catalog" : "161X",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 161A" : {
+         "catalog" : "161A",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 161B" : {
+         "catalog" : "161B",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      }
+   },
+   "courses_to_ignore" : {
+      "CS 1010" : {
+         "catalog" : "101",
+         "subject" : "CS"
+      },
+      "CS 390" : {
+         "catalog" : "390",
+         "subject" : "CS"
+      }
+   },
+   "dept_consent_needed" : {
+      "CS 495" : {
+         "catalog" : "495",
+         "subject" : "CS"
+      },
+      "CS 496" : {
+         "catalog" : "496",
+         "subject" : "CS"
+      },
+      "CS 497" : {
+         "catalog" : "497",
+         "subject" : "CS"
+      }
+   },
+   "term" : "2107"
+}

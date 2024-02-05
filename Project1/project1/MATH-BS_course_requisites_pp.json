@@ -1,0 +1,1337 @@
+{
+   "academic_program" : "MATH-BS",
+   "courses" : {
+      "MATH 100" : {
+         "catalog" : "100",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 103" : {
+         "catalog" : "103",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 104" : {
+         "catalog" : "104",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 105" : {
+         "catalog" : "105",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 111" : {
+         "catalog" : "111",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 131" : {
+         "catalog" : "131",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 131A" : {
+         "catalog" : "131A",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 131B" : {
+         "catalog" : "131B",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 131A" : {
+                        "catalog" : "131A",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 141" : {
+         "catalog" : "141",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 142" : {
+         "catalog" : "142",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 160" : {
+                        "catalog" : "160",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 150" : {
+         "catalog" : "150",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 150A" : {
+         "catalog" : "150A",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 160" : {
+         "catalog" : "160",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 160W" : {
+         "catalog" : "160W",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 160" : {
+                        "catalog" : "160",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 161A" : {
+         "catalog" : "161A",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 161B" : {
+         "catalog" : "161B",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 161A" : {
+                        "catalog" : "161A",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 161W" : {
+         "catalog" : "161W",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 161" : {
+                        "catalog" : "161",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161X" : {
+                        "catalog" : "161X",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 161X" : {
+         "catalog" : "161X",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 165" : {
+         "catalog" : "165",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 165A" : {
+         "catalog" : "165A",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 165B" : {
+         "catalog" : "165B",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 165A" : {
+                        "catalog" : "165A",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 165X" : {
+         "catalog" : "165X",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 180" : {
+         "catalog" : "180",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 161" : {
+                        "catalog" : "161",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161B" : {
+                        "catalog" : "161B",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161X" : {
+                        "catalog" : "161X",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 195" : {
+         "catalog" : "195",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 200" : {
+         "catalog" : "200",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 211" : {
+         "catalog" : "211",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 161" : {
+                        "catalog" : "161",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161B" : {
+                        "catalog" : "161B",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161X" : {
+                        "catalog" : "161X",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 211S" : {
+         "catalog" : "211S",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 161" : {
+                        "catalog" : "161",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161B" : {
+                        "catalog" : "161B",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161X" : {
+                        "catalog" : "161X",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 211W" : {
+         "catalog" : "211W",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 211" : {
+                        "catalog" : "211",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 220" : {
+         "catalog" : "220",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 161" : {
+                        "catalog" : "161",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161B" : {
+                        "catalog" : "161B",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161X" : {
+                        "catalog" : "161X",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            },
+            {
+               "courses" : [
+                  {
+                     "MATH 250" : {
+                        "catalog" : "250",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 255" : {
+                        "catalog" : "255",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 265" : {
+                        "catalog" : "265",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 381" : {
+                        "catalog" : "381",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 445" : {
+                        "catalog" : "445",
+                        "min_grade" : "D-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 222" : {
+         "catalog" : "222",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 161" : {
+                        "catalog" : "161",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161B" : {
+                        "catalog" : "161B",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161X" : {
+                        "catalog" : "161X",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 241" : {
+         "catalog" : "241",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 211" : {
+                        "catalog" : "211",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 250" : {
+         "catalog" : "250",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 161" : {
+                        "catalog" : "161",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161B" : {
+                        "catalog" : "161B",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161X" : {
+                        "catalog" : "161X",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 300B" : {
+                        "catalog" : "300B",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 261" : {
+         "catalog" : "261",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 211" : {
+                        "catalog" : "211",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 241" : {
+                        "catalog" : "241",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 265" : {
+         "catalog" : "265",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 161" : {
+                        "catalog" : "161",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161B" : {
+                        "catalog" : "161B",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161X" : {
+                        "catalog" : "161X",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 250" : {
+                        "catalog" : "250",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 300A" : {
+         "catalog" : "265",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 300B" : {
+         "catalog" : "300B",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 300A" : {
+                        "catalog" : "300A",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 303" : {
+         "catalog" : "303",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 161" : {
+                        "catalog" : "161",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161B" : {
+                        "catalog" : "161B",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161X" : {
+                        "catalog" : "161X",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 306" : {
+         "catalog" : "306",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 242" : {
+                        "catalog" : "242",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     },
+                     "MATH 142" : {
+                        "catalog" : "142",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 220" : {
+                        "catalog" : "220",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 308" : {
+         "catalog" : "308",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 242" : {
+                        "catalog" : "242",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     },
+                     "MATH 142" : {
+                        "catalog" : "142",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 220" : {
+                        "catalog" : "220",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 310" : {
+         "catalog" : "310",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 161" : {
+                        "catalog" : "161",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161B" : {
+                        "catalog" : "161B",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161X" : {
+                        "catalog" : "161X",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 316" : {
+         "catalog" : "316",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 242" : {
+                        "catalog" : "242",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     },
+                     "MATH 142" : {
+                        "catalog" : "142",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 220" : {
+                        "catalog" : "220",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 320" : {
+         "catalog" : "320",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 220" : {
+                        "catalog" : "220",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 322" : {
+         "catalog" : "322",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 220" : {
+                        "catalog" : "220",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 330" : {
+         "catalog" : "330",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 161" : {
+                        "catalog" : "161",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161B" : {
+                        "catalog" : "161B",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161X" : {
+                        "catalog" : "161X",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 340" : {
+         "catalog" : "340",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 220" : {
+                        "catalog" : "220",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            },
+            {
+               "courses" : [
+                  {
+                     "MATH 241" : {
+                        "catalog" : "241",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 261" : {
+                        "catalog" : "261",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 345" : {
+         "catalog" : "345",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 261" : {
+                        "catalog" : "261",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 345E" : {
+         "catalog" : "345E",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 211" : {
+                        "catalog" : "211",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 352" : {
+         "catalog" : "352",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 115" : {
+                        "catalog" : "115",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     },
+                     "MATH 180" : {
+                        "catalog" : "180",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 241" : {
+                        "catalog" : "241",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 367" : {
+         "catalog" : "367",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 165" : {
+                        "catalog" : "165",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 381" : {
+         "catalog" : "381",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 265" : {
+                        "catalog" : "265",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 390" : {
+         "catalog" : "390",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 161" : {
+                        "catalog" : "161",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161B" : {
+                        "catalog" : "161B",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161X" : {
+                        "catalog" : "161X",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 416" : {
+         "catalog" : "416",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "CS 242" : {
+                        "catalog" : "242",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     },
+                     "MATH 142" : {
+                        "catalog" : "142",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 220" : {
+                        "catalog" : "220",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "MATH"
+      },
+      "MATH 418" : {
+         "catalog" : "418",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 340" : {
+                        "catalog" : "340",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "MATH"
+      },
+      "MATH 420" : {
+         "catalog" : "420",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 320" : {
+                        "catalog" : "320",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "MATH"
+      },
+      "MATH 430" : {
+         "catalog" : "430",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 241" : {
+                        "catalog" : "241",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            },
+            {
+               "courses" : [
+                  {
+                     "MATH 161" : {
+                        "catalog" : "161",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161A" : {
+                        "catalog" : "161A",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161B" : {
+                        "catalog" : "161B",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 161X" : {
+                        "catalog" : "161X",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 211" : {
+                        "catalog" : "211",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 241" : {
+                        "catalog" : "241",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 431" : {
+                        "catalog" : "431",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "MATH"
+      },
+      "MATH 431" : {
+         "catalog" : "431",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 241" : {
+                        "catalog" : "241",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            },
+            {
+               "courses" : [
+                  {
+                     "CS 115" : {
+                        "catalog" : "115",
+                        "min_grade" : "C-",
+                        "subject" : "CS"
+                     },
+                     "MATH 180" : {
+                        "catalog" : "180",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 440" : {
+         "catalog" : "440",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 340" : {
+                        "catalog" : "340",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "MATH"
+      },
+      "MATH 441" : {
+         "catalog" : "441",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 345" : {
+                        "catalog" : "345",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            },
+            {
+               "courses" : [
+                  {
+                     "MATH 222" : {
+                        "catalog" : "222",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 241" : {
+                        "catalog" : "241",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "MATH"
+      },
+      "MATH 445" : {
+         "catalog" : "445",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 345" : {
+                        "catalog" : "345",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "MATH"
+      },
+      "MATH 460" : {
+         "catalog" : "460",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 340" : {
+                        "catalog" : "340",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "MATH"
+      },
+      "MATH 465" : {
+         "catalog" : "465",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 222" : {
+                        "catalog" : "222",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     },
+                     "MATH 241" : {
+                        "catalog" : "241",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            },
+            {
+               "courses" : [
+                  {
+                     "MATH 265" : {
+                        "catalog" : "265",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "MATH"
+      },
+      "MATH 467" : {
+         "catalog" : "467",
+         "course_pre_reqs" : [
+            {
+               "courses" : [
+                  {
+                     "MATH 367" : {
+                        "catalog" : "367",
+                        "min_grade" : "C-",
+                        "subject" : "MATH"
+                     }
+                  }
+               ],
+               "num_required" : 1
+            }
+         ],
+         "min_grade" : "D-",
+         "subject" : "MATH"
+      },
+      "MATH 496" : {
+         "catalog" : "496",
+         "course_pre_reqs" : [],
+         "min_grade" : "D-",
+         "subject" : "MATH"
+      },
+      "MATH 161" : {
+         "catalog" : "161",
+         "course_pre_reqs" : [],
+         "min_grade" : "C-",
+         "subject" : "MATH"
+      },
+      "MATH 255" : {
+         "catalog" : "255",
+         "min_grade" : "C-",
+         "course_pre_reqs" : [],
+         "subject" : "MATH"
+      },
+      "CS 242" : {
+         "catalog" : "242",
+         "min_grade" : "C-",
+         "course_pre_reqs" : [],
+         "subject" : "CS"
+      },
+      "CS 115" : {
+         "catalog" : "115",
+         "min_grade" : "C-",
+         "course_pre_reqs" : [],
+         "subject" : "CS"
+      }
+   },
+   "courses_to_ignore" : {
+      "MATH 175" : {
+         "catalog" : "175",
+         "subject" : "MATH"
+      },
+      "MATH 375" : {
+         "catalog" : "375",
+         "subject" : "MATH"
+      }
+   },
+   "dept_consent_needed" : {
+      "MATH 185" : {
+         "catalog" : "185",
+         "subject" : "MATH"
+      },
+      "MATH 295" : {
+         "catalog" : "295",
+         "subject" : "MATH"
+      },
+      "MATH 399" : {
+         "catalog" : "399",
+         "subject" : "MATH"
+      },
+      "MATH 470" : {
+         "catalog" : "470",
+         "subject" : "MATH"
+      },
+      "MATH 485" : {
+         "catalog" : "485",
+         "subject" : "MATH"
+      },
+      "MATH 490" : {
+         "catalog" : "490",
+         "subject" : "MATH"
+      },
+      "MATH 495" : {
+         "catalog" : "495",
+         "subject" : "MATH"
+      },
+      "MATH 499" : {
+         "catalog" : "499",
+         "subject" : "MATH"
+      },
+      "MATH 595" : {
+         "catalog" : "595",
+         "subject" : "MATH"
+      }
+   },
+   "term" : "2107"
+}
